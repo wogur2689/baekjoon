@@ -2,4 +2,5 @@
 백준 문제풀이
 
 # branch
-- js
+- python
+- js(추후 생성)
